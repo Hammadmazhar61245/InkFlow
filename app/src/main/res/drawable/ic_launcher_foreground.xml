@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Notebook card -->
+    <path
+        android:fillColor="#6366F1"
+        android:pathData="M31,26h42c3.3,0 6,2.7 6,6v44c0,3.3 -2.7,6 -6,6H31c-3.3,0 -6,-2.7 -6,-6V32c0,-3.3 2.7,-6 6,-6z" />
+    <!-- Glowing ink wave -->
+    <path
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="4.2"
+        android:strokeLineCap="round"
+        android:pathData="M33,58 C41,44 49,68 57,52 C63,41 68,54 73,46" />
+    <!-- Stylus Nib -->
+    <path
+        android:fillColor="#F43F5E"
+        android:pathData="M62,66 L80,48 L86,54 L68,72 L59,75 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,37h26v3.5H34zM34,44h18v3.5H34z" />
+</vector>
